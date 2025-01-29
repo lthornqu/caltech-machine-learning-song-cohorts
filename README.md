@@ -1,12 +1,7 @@
-# caltech-machine-learning-song-cohorts
-Machine Learning project through Caltech. Performed exploratory data analysis, feature engineering, and cluster analysis on The Rolling Stones’ discography to create a cohort of songs and recommendations for users to discover similar music to their favorite songs and albums.
-
----
-
-## 🎵 Creating Cohorts of Songs
+## 🎵 Caltech Machine Learning Project - Creating Cohorts of Songs
 
 ### 📌 Project Overview
-This project aims to enhance music recommendation systems by clustering songs into distinct cohorts based on their attributes. Using data from Spotify, we apply **exploratory data analysis (EDA)** and **clustering techniques** to identify patterns in song characteristics. The insights from this project can help improve personalized music recommendations.
+This project aims to enhance music recommendation systems by clustering songs into distinct cohorts based on their attributes. Using data from Spotify, we apply **exploratory data analysis (EDA)**, **feature engineering**, and **clustering techniques** to identify patterns in song characteristics. The insights from this project can help improve personalized music recommendations.
 
 ### 🏆 Objective
 As a data scientist / machine learning engineer, the goal is to analyze song features, understand the relationships between different attributes, and categorize songs into meaningful clusters. This will help in:
@@ -77,7 +72,7 @@ The dataset includes all **Rolling Stones** albums available on Spotify, with th
 ## 🚀 How to Use This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com//song-cohort-clustering.git](https://github.com/lthornqu/caltech-machine-learning-song-cohorts.git
+   git clone https://github.com/lthornqu/caltech-machine-learning-song-cohorts.git
    ```
 2. Install dependencies:
    ```bash
